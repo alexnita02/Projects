@@ -1,0 +1,6 @@
+Order : 3
+Name : Gigel Nita
+Product : eggs
+Quantity : 10
+Total price : 200 (10 * 20) = 200
+
