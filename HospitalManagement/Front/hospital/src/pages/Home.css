@@ -1,0 +1,37 @@
+.homepage-container {
+    text-align: center;
+}
+
+.homepage-header {
+    text-align: center;
+}
+
+.homepage-content {
+    text-align: center;
+}
+
+.custom-section-container {
+    
+    
+    text-align: center;
+    margin: 0 auto;
+    margin-left:-100px;
+    display:flex;
+}
+
+.custom-section{
+    display:inline-block;
+    
+}
+.custom-section1{
+   display:inline-block;
+   text-align: center;
+   display:flex;
+}
+
+
+
+
+.presentation-section {
+    text-align: center;
+}
